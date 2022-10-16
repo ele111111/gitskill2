@@ -1,5 +1,4 @@
 package GitText;
-
 import java.util.ArrayList;
 
 public interface IParams {	
